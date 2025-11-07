@@ -14,7 +14,7 @@ export function Support() {
             <div className="text-5xl mb-4">📞</div>
             <h3 className="text-2xl font-bold mb-2">Phone Support</h3>
             <p className="text-primary-foreground/70 mb-6">Talk to an expert instantly</p>
-            <a href="tel:8883915941" className="font-bold text-accent hover:underline">(888) 391-5941</a>
+            <a href="tel:8889932795" className="font-bold text-accent hover:underline">(888) 993-2795</a>
           </div>
 
           <div className="bg-primary border border-accent/20 rounded-xl p-8 text-center hover:border-accent transition-all">

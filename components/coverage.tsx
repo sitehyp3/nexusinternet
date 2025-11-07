@@ -10,27 +10,14 @@ export function Coverage() {
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
               Expanding <span className="text-accent">Coverage</span> Daily
             </h2>
-            <p className="text-lg text-primary-foreground/70 mb-8">
-              We're rapidly expanding our fiber network to bring ultra-fast internet to more communities across the
-              nation
+            <p className="text-xl text-muted-foreground mb-8">
+              Our fiber network spans across major metropolitan areas, bringing ultra-fast internet to homes and businesses nationwide.
             </p>
-            <div className="space-y-4 mb-8">
-              <div className="bg-primary/50 border border-accent/20 rounded-lg p-4">
-                <p className="font-bold text-accent mb-1">500+</p>
-                <p className="text-primary-foreground/70">Cities with service</p>
-              </div>
-              <div className="bg-primary/50 border border-accent/20 rounded-lg p-4">
-                <p className="font-bold text-accent mb-1">2M+</p>
-                <p className="text-primary-foreground/70">Connected households</p>
-              </div>
-              <div className="bg-primary/50 border border-accent/20 rounded-lg p-4">
-                <p className="font-bold text-accent mb-1">Ongoing</p>
-                <p className="text-primary-foreground/70">Expansion in every state</p>
-              </div>
+            <div className="flex gap-4">
+              <a href="tel:8889932795" className="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-opacity-90 transition-all inline-block">
+                Call (888) 993-2795
+              </a>
             </div>
-            <a href="tel:8883915941" className="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-opacity-90 transition-all inline-block">
-              Call (888) 391-5941
-            </a>
           </div>
         </div>
       </div>

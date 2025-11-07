@@ -10,9 +10,9 @@ export function Hero() {
             <p className="text-lg text-primary-foreground/80 max-w-lg">
               Experience unprecedented speed and reliability with our next-generation fiber internet infrastructure.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4">
-              <a href="tel:8883915941" className="bg-accent text-white px-8 py-4 rounded-full font-semibold hover:bg-opacity-90 transition-all text-lg text-center">
-                Call (888) 391-5941
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <a href="tel:8889932795" className="bg-accent text-white px-8 py-4 rounded-full font-semibold hover:bg-opacity-90 transition-all text-lg text-center">
+                Call (888) 993-2795
               </a>
               <a href="#plans" className="border-2 border-accent text-accent px-8 py-4 rounded-full font-semibold hover:bg-accent/10 transition-all text-lg text-center">
                 View Plans

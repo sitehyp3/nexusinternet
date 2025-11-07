@@ -99,7 +99,7 @@ export default function TermsConditions() {
                 <br />
                 <strong>Email:</strong> legal@nexusnett.com
                 <br />
-                <strong>Phone:</strong> <a href="tel:8883915941" className="text-accent hover:underline">(888) 391-5941</a>
+                <strong>Phone:</strong> <a href="tel:8889932795" className="text-accent hover:underline">(888) 993-2795</a>
               </p>
             </section>
           </div>

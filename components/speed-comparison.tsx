@@ -29,9 +29,14 @@ export function SpeedComparison() {
           <p className="text-lg text-primary-foreground/70 mb-6">
             Stream 4K, game without lag, and download entire movies in seconds
           </p>
-          <a href="tel:8883915941" className="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-opacity-90 transition-all inline-block">
-            Call (888) 391-5941
-          </a>
+          <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
+            Experience the difference with fiber-optic technology. While traditional cable internet struggles with speed and reliability, Nexusnett delivers consistent performance.
+          </p>
+          <div className="flex gap-4 justify-center">
+            <a href="tel:8889932795" className="bg-accent text-white px-8 py-3 rounded-full font-semibold hover:bg-opacity-90 transition-all inline-block">
+              Call (888) 993-2795
+            </a>
+          </div>
         </div>
       </div>
     </section>

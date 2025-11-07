@@ -13,13 +13,11 @@ export default function Contact() {
           <div className="grid md:grid-cols-2 gap-12">
             <div>
               <div className="bg-white p-8 rounded-lg shadow-sm border border-gray-200 mb-6">
-                <h3 className="text-2xl font-bold mb-4" style={{ color: "#EA5212" }}>
-                  Phone
+                <h3 className="text-2xl font-bold mb-4 flex items-center gap-2" style={{ color: "#EA5212" }}>
+                  📞 Phone
                 </h3>
-                <p className="text-gray-600">
-                  <a href="tel:8883915941" className="hover:underline">(888) 391-5941</a>
-                </p>
-                <p className="text-gray-500 text-sm">Available 24/7</p>
+                <a href="tel:8889932795" className="hover:underline text-lg">(888) 993-2795</a>
+                <p className="text-gray-500 text-sm mt-2">Available 24/7</p>
               </div>
 
               <div className="bg-white p-8 rounded-lg shadow-sm border border-gray-200">

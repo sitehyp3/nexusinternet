@@ -30,11 +30,11 @@ export function Navigation() {
           </Link>
         </div>
         <a
-          href="tel:8883915941"
+          href="tel:8889932795"
           className="text-white px-6 py-2 rounded-full font-semibold hover:opacity-90 transition-all"
           style={{ backgroundColor: "#EA5212" }}
         >
-          Call (888) 391-5941
+          Call (888) 993-2795
         </a>
       </div>
     </nav>

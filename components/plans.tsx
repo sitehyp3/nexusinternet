@@ -51,15 +51,15 @@ export function Plans() {
               <p className="text-primary-foreground/70 mb-6">
                 <span className="text-3xl font-bold">${plan.price}</span>/mo
               </p>
-              <a
-                href="tel:8883915941"
-                className={`w-full py-3 px-6 rounded-full font-semibold mb-8 transition-all inline-block text-center ${
-                  plan.highlighted
-                    ? "bg-accent text-white hover:bg-opacity-90"
-                    : "border border-accent text-accent hover:bg-accent/10"
+              <a 
+                href="tel:8889932795"
+                className={`mt-8 w-full py-3 rounded-full font-semibold transition-all block text-center ${
+                  plan.highlighted 
+                    ? "bg-accent text-white hover:bg-opacity-90" 
+                    : "border-2 border-accent text-accent hover:bg-accent hover:text-white"
                 }`}
               >
-                Call (888) 391-5941
+                Call (888) 993-2795
               </a>
               <div className="space-y-4">
                 {plan.features.map((feature) => (
